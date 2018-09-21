@@ -48,6 +48,9 @@ Thumbs.db
 ######################
 *~
 
+# jupyter checkpoints
+######################
+.ipynb_checkpoints
 
 # dataset directories that I don't want to share
 ######################
